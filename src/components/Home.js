@@ -2,8 +2,6 @@ import React, { useState, useEffect }  from 'react';
 import axios from 'axios';
 import './style.css';
 import homeLogo from "./jarurat.png";
-import Particle from "./Particle";
-import FluidAnimation from 'react-fluid-animation'
 
 const Home = () => {
 
